@@ -2,7 +2,7 @@
 
 Open the `Technical_Report.ipynb` file to view the full report.
 
-### Highlights
+### Insights
 
 1. The scope of explainability require different approaches. What works locally may not work globally.
 2. Global explainations are better done with tokens clustered into topics.
